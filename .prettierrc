@@ -1,0 +1,8 @@
+{
+  "printWidth": 50,
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "strict",
+  "vueIndentScriptAndStyle": true,
+  "vueIndentScriptAndStyleIndentation": 2,
+  "htmlAttributes": "separate-line"
+}
